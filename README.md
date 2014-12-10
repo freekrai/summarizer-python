@@ -1,7 +1,7 @@
-xsummarizer-python
+summarizer-python
 =================
 
-Python version of https://github.com/freekrai/summarizer
+This is a Python fork of my PHP Summarizer at [https://github.com/freekrai/summarizer](https://github.com/freekrai/summarizer).
 
 
 This tool was created to give more intelligent excerpts to job postings on [workerpod.com](http://workerpod.com), but can be used to summarize any content.
